@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monty-hall/static/css/main.a45c01fd.chunk.css",
+    "main.js": "/monty-hall/static/js/main.840bafaa.chunk.js",
+    "main.js.map": "/monty-hall/static/js/main.840bafaa.chunk.js.map",
+    "runtime-main.js": "/monty-hall/static/js/runtime-main.3a111ce1.js",
+    "runtime-main.js.map": "/monty-hall/static/js/runtime-main.3a111ce1.js.map",
+    "static/js/2.5a5c35e2.chunk.js": "/monty-hall/static/js/2.5a5c35e2.chunk.js",
+    "static/js/2.5a5c35e2.chunk.js.map": "/monty-hall/static/js/2.5a5c35e2.chunk.js.map",
+    "static/js/3.631ff028.chunk.js": "/monty-hall/static/js/3.631ff028.chunk.js",
+    "static/js/3.631ff028.chunk.js.map": "/monty-hall/static/js/3.631ff028.chunk.js.map",
+    "index.html": "/monty-hall/index.html",
+    "static/css/main.a45c01fd.chunk.css.map": "/monty-hall/static/css/main.a45c01fd.chunk.css.map",
+    "static/js/2.5a5c35e2.chunk.js.LICENSE.txt": "/monty-hall/static/js/2.5a5c35e2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/monty-hall/static/media/goat.9992cc95.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a111ce1.js",
+    "static/js/2.5a5c35e2.chunk.js",
+    "static/css/main.a45c01fd.chunk.css",
+    "static/js/main.840bafaa.chunk.js"
+  ]
+}
